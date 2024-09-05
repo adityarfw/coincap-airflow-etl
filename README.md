@@ -58,4 +58,5 @@ This project provided a hands-on experience with setting up and managing a cloud
 
 ## Credits
 Thanks to DarshilParmar Youtube channel for sharing his knowledge!
+
 Libraries: Python Pandas, Logging, Requests, JSON
