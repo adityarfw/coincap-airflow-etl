@@ -1,0 +1,101 @@
+id,rank,symbol,name,supply,maxSupply,priceUsd,changePercent24Hr,explorer
+bitcoin,1,BTC,Bitcoin,19749606.0,21000000.0,58002.49,-0.28,https://blockchain.info/
+ethereum,2,ETH,Ethereum,120312883.01,,2451.5,-0.36,https://etherscan.io/
+tether,3,USDT,Tether,118142287334.84,,1.0,0.02,https://www.omniexplorer.info/asset/31
+binance-coin,4,BNB,BNB,166801148.0,166801148.0,510.1,-2.91,https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52
+solana,5,SOL,Solana,466818154.66,,133.09,1.28,https://explorer.solana.com/
+usd-coin,6,USDC,USDC,34855910966.3,,1.0,-0.0,https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48
+xrp,7,XRP,XRP,45404028640.0,100000000000.0,0.56,-1.63,https://xrpcharts.ripple.com/#/graph/
+steth,8,STETH,Lido Staked ETH,9807230.64,,2445.58,-0.48,https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84
+dogecoin,9,DOGE,Dogecoin,145820426383.71,,0.1,0.04,http://dogechain.info/chain/Dogecoin
+tron,10,TRX,TRON,86747926181.21,,0.15,-1.02,https://tronscan.org/#/
+cardano,11,ADA,Cardano,35960643044.11,45000000000.0,0.32,-0.89,https://cardanoexplorer.com/
+wrapped-bitcoin,12,WBTC,Wrapped Bitcoin,153437.11,,57931.52,-0.28,https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599
+avalanche,13,AVAX,Avalanche,405184139.16,715748719.0,21.89,0.6,https://avascan.info/
+shiba-inu,14,SHIB,Shiba Inu,589269842135503.2,,0.0,0.66,https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce
+chainlink,15,LINK,Chainlink,608099970.45,,10.31,-1.12,https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca
+bitcoin-cash,16,BCH,Bitcoin Cash,19756268.75,21000000.0,315.12,0.24,https://blockchair.com/bitcoin-cash/blocks
+polkadot,17,DOT,Polkadot,1408616915.68,,4.13,0.06,https://polkascan.io/polkadot
+multi-collateral-dai,18,DAI,Multi Collateral DAI,5365382702.66,,1.0,0.18,https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359
+unus-sed-leo,19,LEO,UNUS SED LEO,925566145.9,,5.72,-2.86,https://eospark.com/account/bitfinexleo1
+litecoin,20,LTC,Litecoin,74937849.86,84000000.0,65.64,0.23,http://explorer.litecoin.net/chain/Litecoin
+near-protocol,21,NEAR,NEAR Protocol,1121947403.0,,3.84,1.06,https://explorer.nearprotocol.com/
+uniswap,22,UNI,Uniswap,600126149.71,,6.43,4.97,https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984
+internet-computer,23,ICP,Internet Computer,469378670.91,,7.57,4.07,https://www.dfinityexplorer.org/#/
+monero,24,XMR,Monero,18446744.07,,173.7,0.12,http://moneroblocks.info/
+fetch,25,FET,Artificial Superintelligence Alliance,2520000000.0,2630547141.0,1.14,-0.56,https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd
+stellar,26,XLM,Stellar,29536101856.82,50001806812.0,0.09,-0.4,https://dashboard.stellar.org/
+ethereum-classic,27,ETC,Ethereum Classic,148607558.4,210700000.0,18.01,1.0,http://gastracker.io/
+okb,28,OKB,OKB,60000000.0,,36.61,1.12,https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c
+stacks,29,STX,Stacks,1484749741.06,1818000000.0,1.46,1.01,https://explorer.xinfin.network/
+aave,30,AAVE,Aave,14927907.62,,135.68,11.14,https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03
+crypto-com-coin,31,CRO,Crypto.com Coin,25263013692.0,30263013692.0,0.08,-0.61,https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b
+filecoin,32,FIL,Filecoin,583298187.0,,3.39,-0.55,https://protocol.ai
+polygon,33,MATIC,Polygon,4702405924.57,,0.38,-5.31,https://etherscan.io/token/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0
+vechain,34,VET,VeChain,80985041177.0,86712634466.0,0.02,1.18,https://explore.veforge.com/
+maker,35,MKR,Maker,930649.6,1005577.0,1672.43,-1.28,https://etherscan.io/token/Maker
+arweave,36,AR,Arweave,65652466.0,66000000.0,21.21,1.55,https://viewblock.io/arweave
+the-graph,37,GRT,The Graph,9548531509.17,,0.14,1.0,https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7
+injective-protocol,38,INJ,Injective,73005554.33,100000000.0,17.05,4.35,https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30
+helium,39,HNT,Helium,160875441.82,,7.67,5.56,https://explorer.helium.com/
+thorchain,40,RUNE,THORChain,335343986.0,,3.68,-6.52,https://explorer.binance.org/asset/RUNE-B1A
+theta,41,THETA,THETA,1000000000.0,1000000000.0,1.14,-0.72,https://explorer.thetatoken.org/
+fantom,42,FTM,Fantom,2803634835.53,,0.4,-0.5,https://etherscan.io/token/0x4e15361fd6b4bb609fa63c81a2be19d873717870
+cosmos,43,ATOM,Cosmos,248453201.0,,4.07,-2.87,https://www.mintscan.io/
+algorand,44,ALGO,Algorand,8227589508.6,10000000000.0,0.12,0.86,https://algoexplorer.io/
+kucoin-token,45,KCS,KuCoin Token,117906971.29,170118638.0,8.16,-0.65,https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811
+lido-dao,46,LDO,Lido DAO,895285680.33,,1.03,2.18,https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32
+bitcoin-sv,47,BSV,Bitcoin SV,19752109.38,,45.58,2.74,https://bsvexplorer.io/
+flow,48,FLOW,Flow,1528897406.13,,0.56,-0.02,https://flowscan.org/
+quant,49,QNT,Quant,12072738.0,14881364.0,61.94,0.81,https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675
+hedera-hashgraph,50,HBAR,Hedera Hashgraph,14832756028.0,50000000000.0,0.05,-0.35,https://hash-hash.info/
+eos,51,EOS,EOS,1512567985.33,2100000000.0,0.46,0.18,https://bloks.io/
+gatetoken,52,GT,GateToken,93259530.38,,7.37,-1.08,
+axie-infinity,53,AXS,Axie Infinity,149296501.68,,4.57,0.65,https://etherscan.io/token/0xf5d669627376ebd411e34b98f19c868c8aba5ada
+neo,54,NEO,Neo,70538831.0,100000000.0,9.57,0.87,https://neotracker.io
+elrond-egld,55,EGLD,MultiversX,24184559.19,31415926.0,26.85,-1.19,https://explorer.elrond.com/
+tezos,56,XTZ,Tezos,998226636.19,,0.64,1.21,https://tzkt.io/
+gala,57,GALA,Gala,34218064786.18,,0.02,-0.04,https://ethplorer.io/es/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da#chart=candlestick
+ecash,58,XEC,eCash,19752376548090.0,21000000000000.0,0.0,0.08,https://explorer.bitcoinabc.org/
+the-sandbox,59,SAND,The Sandbox,2336232126.22,,0.25,1.93,https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0
+conflux-network,60,CFX,Conflux,4339331782.71,,0.13,3.59,http://www.confluxscan.io/
+akash-network,61,AKT,Akash Network,248285794.66,388539008.0,2.29,0.04,https://akash.bigdipper.live/
+nexo,62,NEXO,Nexo,560000011.0,,0.99,-0.63,https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206
+decentraland,63,MANA,Decentraland,1908319865.39,,0.26,2.11,https://etherscan.io/token/decentraland
+trueusd,64,TUSD,TrueUSD,495601552.61,,1.0,0.01,https://etherscan.io/token/0x8dd5fbce2f6a956c3022ba3663759011dd51e73e
+klaytn,65,KLAY,Klaytn,3803678791.77,,0.13,-1.44,https://scope.klaytn.com/blocks
+mina,66,MINA,Mina,1153182349.84,,0.43,1.29,https://minaexplorer.com/
+mantra-dao,67,OM,MANTRA DAO,500205033.18,888888888.0,0.98,1.3,https://etherscan.io/token/0x3593d125a4f7849a1b059e64f4517a86dd60c95d
+zcash,68,ZEC,Zcash,16328268.75,21000000.0,29.71,0.45,https://explorer.zcha.in/
+chiliz,69,CHZ,Chiliz,9038470294.0,,0.05,0.76,https://etherscan.io/token/0x3506424f91fd33084466f402d5d97f05f8e3b4af
+pendle,70,PENDLE,Pendle,158192726.37,,2.89,-2.04,https://etherscan.io/token/0x808507121b80c02388fad14726482e061b8da827
+pancakeswap,71,CAKE,PancakeSwap,264399599.53,450000000.0,1.69,-0.23,https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82
+ftx-token,72,FTT,FTX Token,328895103.81,,1.36,0.98,https://etherscan.io/token/0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9
+aioz-network,73,AIOZ,AIOZ Network,1119553813.42,,0.39,0.16,https://etherscan.io/token/0x626e8036deb333b408be468f951bdb42433cbf18
+dexe,74,DEXE,DeXe,57103247.52,98942301.0,7.53,0.72,https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6
+iota,75,IOTA,IOTA,3420882505.0,,0.12,0.37,https://thetangle.org/
+fei-protocol,76,FEI,Fei Protocol,424996177.79,,0.97,0.02,https://etherscan.io/token/0x956F47F50A910163D8BF957Cf5846D573E7f87CA
+livepeer,77,LPT,Livepeer,34314763.77,,11.72,-1.88,https://explorer.livepeer.org/
+gnosis-gno,78,GNO,Gnosis,2589588.0,3000000.0,154.23,4.95,https://etherscan.io/token/Gnosis
+raydium,79,RAY,Raydium,263757728.39,,1.51,2.09,https://explorer.solana.com/address/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R
+compound,80,COMP,Compound,8678192.99,,44.49,2.15,https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888
+oasis-network,81,ROSE,Oasis,7064132681.0,,0.05,0.2,https://www.oasisscan.com/
+nxm,82,NXM,NXM,6594067.84,,56.33,1.39,https://etherscan.io/token/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b
+nervos-network,83,CKB,Nervos Network,44873950688.17,,0.01,1.05,https://explorer.nervos.org/
+theta-fuel,84,TFUEL,Theta Fuel,6669932221.0,,0.05,-0.49,https://explorer.thetatoken.org/
+1inch,85,1INCH,1inch Network,1257301289.49,,0.28,21.51,https://etherscan.io/token/0x111111111117dc0aa78b770fa6a738034120c302
+trust-wallet-token,86,TWT,Trust Wallet Token,416649900.0,,0.82,-1.06,https://explorer.binance.org/asset/TWT-8C2
+curve-dao-token,87,CRV,Curve DAO Token,1190444793.0,,0.29,8.21,https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52
+iotex,88,IOTX,IoTeX,9441372454.0,10000000000.0,0.03,-0.19,https://etherscan.io/token/0x6fb3e0a217407efff7ca062d46c26e5d60a14d69
+synthetix-network-token,89,SNX,Synthetix,233716733.49,212424133.0,1.37,5.42,https://etherscan.io/token/0xc011a72400e58ecd99ee497cf89e3775d4bd732f
+kava,90,KAVA,Kava,1082854748.0,,0.3,0.11,https://www.mintscan.io/kava
+superfarm,91,SUPER,SuperVerse,487976093.42,1000000000.0,0.64,-3.68,https://etherscan.io/token/0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55
+xinfin-network,92,XDC,XinFin Network,12293293518.55,,0.03,-1.94,https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2
+amp,93,AMP,Amp,80722574661.29,,0.0,-0.15,
+dash,94,DASH,Dash,11944285.04,18900000.0,23.93,-2.89,https://explorer.dash.org
+just,95,JST,JUST,9900000000.0,9900000000.0,0.03,-0.12,https://tronscan.org/#/token20/TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9
+kusama,96,KSM,Kusama,15420435.48,,18.01,1.31,https://kusama.subscan.io/
+sun-token,97,SUN,Sun (New),9951640722.0,,0.03,-10.02,https://tronscan.org/#/token20/TSSMHYeV2uE9qYH95DqyoCuNCzEL1NvU3S
+holo,98,HOT,Holo,173776360397.95,,0.0,-0.81,https://etherscan.io/token/0x6c6ee5e31d828de241282b9606c8e98ea48526e2
+wootrade,99,WOO,WOO,1822998252.57,,0.15,3.49,https://etherscan.io/token/0x4691937a7508860f876c9c0a2a617e7d9e945d4b
+aelf,100,ELF,aelf,732639776.03,,0.36,-0.31,https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e
